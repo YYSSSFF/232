@@ -1,4 +1,3 @@
-### Number Guesser
 **Number Guessing Game**
 
 ### Description
@@ -63,4 +62,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 ### Acknowledgments
 Thank you to all the tutorials and resources that helped make this project possible.
-- W3Schools: [official website](https://www.geeksforgeeks.org/number-guessing-game-in-python/)
+- W3Schools: [number guessing game in python](https://www.geeksforgeeks.org/number-guessing-game-in-python/)
