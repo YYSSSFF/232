@@ -62,4 +62,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 ### Acknowledgments
 Thank you to all the tutorials and resources that helped make this project possible.
-- W3Schools: [number guessing game in python](https://www.geeksforgeeks.org/number-guessing-game-in-python/)
+- W3Schools: [Number guessing game in Python 3 and C](https://www.geeksforgeeks.org/number-guessing-game-in-python/)
