@@ -31,7 +31,7 @@ while count < max_tries:
     count += 1  # Increases the guess count with 1, every time the user guesses.
 
     # Taking the user's guess as input.
-    guess = int(input("Enter a number: "))  # Prompts the user to enter a number, as a guess, and converts it to an integer.
+    guess = int(input("Guess a number: "))  # Prompts the user to enter a number, as a guess, and converts it to an integer.
     
     # Conditioning to check if the guess is correct, too low, or too high.
     if guess == x: 
