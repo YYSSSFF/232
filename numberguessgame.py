@@ -1,6 +1,7 @@
 import random  # Importing the random module to generate random numbers.
 import math  # Importing the math module for mathematical functions.
 
+# First shows a statement before really starting the game.
 print("Welcome to the Number Guessing Game!")
 
 # Taking input for the lower bound of the range.
