@@ -42,7 +42,7 @@ Too high!
 Guess the number: 25
 Too low!
 Guess the number: 37
-Correct! You've guessed the number in 3 attempts.
+Congratulations, you did it in 3 tries.
 ```
 
 ### Contributing
